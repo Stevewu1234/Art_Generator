@@ -47,7 +47,7 @@ const layers = [
     {
         id: 1,
         name: "body",
-        location: `${dir}/body`,
+        location: `${dir}/body/`,
         elements: getElements(`${dir}/body/`),
         position: { x: 0, y: 0 },
         size: { width: width, height: height },
@@ -56,7 +56,7 @@ const layers = [
     {
         id: 2,
         name: "eye",
-        location: `${dir}/eye`,
+        location: `${dir}/eye/`,
         elements: getElements(`${dir}/eye/`),
         position: { x: 0, y: 0 },
         size: { width: width, height: height },
@@ -65,7 +65,7 @@ const layers = [
     {
         id: 3,
         name: "hair",
-        location: `${dir}/hair`,
+        location: `${dir}/hair/`,
         elements: getElements(`${dir}/hair/`),
         position: { x: 0, y: 0 },
         size: { width: width, height: height },
@@ -74,7 +74,7 @@ const layers = [
     {
         id: 4,
         name: "hand",
-        location: `${dir}/hand`,
+        location: `${dir}/hand/`,
         elements: getElements(`${dir}/hand/`),
         position: { x: 0, y: 0 },
         size: { width: width, height: height },
@@ -83,7 +83,7 @@ const layers = [
     {
         id: 5,
         name: "horn",
-        location: `${dir}/horn`,
+        location: `${dir}/horn/`,
         elements: getElements(`${dir}/horn/`),
         position: { x: 0, y: 0 },
         size: { width: width, height: height },
@@ -92,7 +92,7 @@ const layers = [
     {
         id: 6,
         name: "mouth",
-        location: `${dir}/mouth`,
+        location: `${dir}/mouth/`,
         elements: getElements(`${dir}/mouth/`),
         position: { x: 0, y: 0 },
         size: { width: width, height: height },
@@ -101,7 +101,7 @@ const layers = [
     {
         id: 7,
         name: "tail",
-        location: `${dir}/tail`,
+        location: `${dir}/tail/`,
         elements: getElements(`${dir}/tail/`),
         position: { x: 0, y: 0 },
         size: { width: width, height: height },
