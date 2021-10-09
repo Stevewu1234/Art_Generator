@@ -1,0 +1,67 @@
+[
+    {
+        "hash": "1234567",
+        "decodedHash": [
+            {
+                "1": 1
+            },
+            {
+                "2": 2
+            },
+            {
+                "3": 2
+            },
+            {
+                "4": 2
+            },
+            {
+                "5": 1
+            },
+            {
+                "6": 1
+            },
+            {
+                "7": 1
+            }
+        ],
+        "edition": 3,
+        "date": 1633762690846,
+        "attributes": [
+            {
+                "id": 1,
+                "layer": "body",
+                "name": "body"
+            },
+            {
+                "id": 2,
+                "layer": "eye",
+                "name": "eye"
+            },
+            {
+                "id": 2,
+                "layer": "hair",
+                "name": "hair"
+            },
+            {
+                "id": 2,
+                "layer": "hand",
+                "name": "hand"
+            },
+            {
+                "id": 1,
+                "layer": "horn",
+                "name": "horn"
+            },
+            {
+                "id": 1,
+                "layer": "mouth",
+                "name": "mouth"
+            },
+            {
+                "id": 1,
+                "layer": "tail",
+                "name": "tail"
+            }
+        ]
+    }
+]
