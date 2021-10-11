@@ -1,4 +1,5 @@
 # Art_Generator
 
 
-updating
+Forked from HashLips.
+Added metadata saving scripts.
