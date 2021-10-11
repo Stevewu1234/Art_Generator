@@ -1,6 +1,6 @@
 # Art_Generator
 
 
-Forked from HashLips.
+- Forked from HashLips.
 
-Added metadata saving scripts.
+- Added metadata saving scripts.
