@@ -30,10 +30,11 @@ const clearName = (_str) => {
 
 
 const getElements = (path) => {
+    console.log(fs.readdirSync(path));
     return fs
         .readdirSync(path)
         .filter((item) => !/(^|\/)\.[^|\/.]/g.test(item))
-        .map((i, index) => {
+        .map((i, index) => {   // i is value of file array which is read by readdirSync(path)
             return {
                 id: index + 1,
                 name: clearName(i),

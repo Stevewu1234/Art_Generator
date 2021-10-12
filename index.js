@@ -53,6 +53,7 @@ const addAttributes = (_element, _layer) => {
         name: _element.name,
         rartiy: _element.rartiy
     }
+    
 
     attributes.push(tempAttr);
     hash.push(_layer.id);
