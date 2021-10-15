@@ -5,4 +5,6 @@
 
 - Added metadata saving scripts.
 
-- IPFS added
+- IPFS(pinata) added
+
+
