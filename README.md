@@ -1,4 +1,5 @@
 # Art_Generator
+version 2.0
 
 
 - Forked from HashLips.
