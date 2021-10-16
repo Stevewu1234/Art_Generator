@@ -10,5 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "canvas": "^2.8.0"
+  },
+  "devDependencies": {
+    "@pinata/sdk": "^1.1.23",
+    "dotenv": "^10.0.0",
+    "nft.storage": "^3.3.0"
   }
 }
