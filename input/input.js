@@ -30,7 +30,7 @@ const clearName = (_str) => {
 
 
 const getElements = (path) => {
-    console.log(fs.readdirSync(path));
+    // console.log(fs.readdirSync(path));
     return fs
         .readdirSync(path)
         .filter((item) => !/(^|\/)\.[^|\/.]/g.test(item))
