@@ -9,3 +9,4 @@ version 2.0
 - IPFS(pinata) added
 
 
+ipfs://QmYkFkMG9YKF3SzN78AZuCTW2nQktX9snY2sGPrVPgqQxg/1.json
